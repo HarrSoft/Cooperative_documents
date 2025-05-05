@@ -19,8 +19,7 @@ We are Harrsoft Studio. A software developer, design, and marketing professional
 
 * Just social causes such as combating discrimination for marginalized groups
 * Other Co-Ops and collectives
-* Organizations and startups working in green tech, health, liberation, 
-* and community building.
+* Organizations and startups working in green tech, health, liberation, and community building.
 * Small community oriented businesses/organizations.
 * Minority owned businesses
 * non-profit organizations that share our principles.
